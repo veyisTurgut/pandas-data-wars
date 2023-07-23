@@ -1,1 +1,1 @@
-I'm mastering pandas through (this)[https://www.youtube.com/watch?v=gtjxAH8uaP0] and (this)[https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&pp=iAQB] youtube tutorials. This repo holds the code I wrote along the way.
+I'm mastering pandas through [this](https://www.youtube.com/watch?v=gtjxAH8uaP0) and [this](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&pp=iAQB) youtube tutorials. This repo holds the code I wrote along the way.
